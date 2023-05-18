@@ -1,2 +1,0 @@
-# gfyfh
-my first repository
